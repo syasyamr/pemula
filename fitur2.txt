@@ -1,2 +1,3 @@
 fitur add
 fitur update
+fitur delete
